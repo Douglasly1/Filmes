@@ -15,7 +15,9 @@ gem 'jquery-rails'
 
 gem 'sassc-rails'
 
+gem 'turbolinks', '~> 5.0'
 
+gem 'webpacker'
 
 #DEVISE
 gem 'devise', '~> 4.2'
